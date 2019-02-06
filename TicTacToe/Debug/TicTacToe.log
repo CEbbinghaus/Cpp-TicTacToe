@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\s171715\desktop\tictactoe\tictactoe\source.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TicTacToe.vcxproj -> C:\Users\s171715\Desktop\TicTacToe\Debug\TicTacToe.exe
