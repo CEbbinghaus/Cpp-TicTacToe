@@ -193,7 +193,7 @@ bool update() {
 	return false;
 }
 void handleInput() {
-	if (kbhit())
+	//if (kbhit())
 	{
 		char ch = getch();
 		char c = ' ';
@@ -231,7 +231,7 @@ void tick() {
 		if (update()) {
 			return;
 		}
-		_sleep(30);
+		//_sleep(30);
 	}
 }
 void startGame() {
