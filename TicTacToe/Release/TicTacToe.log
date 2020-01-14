@@ -1,3 +1,0 @@
-﻿  Source.cpp
-d:\uni\projects\tictactoe\tictactoe\source.cpp(198): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
